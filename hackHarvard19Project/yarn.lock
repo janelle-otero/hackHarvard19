@@ -3430,9 +3430,9 @@ lodash.throttle@^4.1.1:
   integrity sha1-wj6RtxAkKscMN/HhzaknTMOb8vQ=
 
 lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0, lodash@^4.5.0, lodash@^4.6.0, lodash@^4.6.1:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 long@^4.0.0:
   version "4.0.0"
@@ -4719,6 +4719,16 @@ react-native-gesture-handler@^1.4.1:
     hoist-non-react-statics "^2.3.1"
     invariant "^2.2.4"
     prop-types "^15.7.2"
+
+react-native-image-picker@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/react-native-image-picker/-/react-native-image-picker-1.1.0.tgz#c2a0523886edb4cf2cdc008ad0a71433142a4d53"
+  integrity sha512-/KjHf4NNAjl6XM7FQuqvGDz1wB9sRdLf86+2yksLW/QTRR7CitX4TLCM8ZF9CX6Y0MsCTndkZia3zWE+nt/GiA==
+
+react-native-popup-menu@^0.15.6:
+  version "0.15.10"
+  resolved "https://registry.yarnpkg.com/react-native-popup-menu/-/react-native-popup-menu-0.15.10.tgz#49f2a67c8d1ea329f44e56288eca4a5c04835828"
+  integrity sha512-w7MaicsfpclK7g/omjMchNaXwhMi0apt/DC734AbHuJTWCfv5mF3JgL1UzRW19ncFMBRfQeYapPy/zUyJCGgEQ==
 
 react-native-safe-area-view@^0.14.1:
   version "0.14.8"
